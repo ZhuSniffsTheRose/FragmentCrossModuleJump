@@ -1,0 +1,3 @@
+rootProject.name = "FragmentCrossModuleJump"
+include ':app'
+include ':OtherModule'
